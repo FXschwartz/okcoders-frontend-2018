@@ -7,4 +7,4 @@ Instructions are provided for Linux, Mac, and Windows computers, the three opera
 If you are not familiar with the command line, expect to spend a couple hours on this.
 
 Refer to the
-[**linux-setup**](https://github.com/sergei202/okcoders-backend/blob/master/00-preparation/00-02-mac-setup.md), [**mac-setup**](https://github.com/sergei202/okcoders-backend/blob/master/00-preparation/00-02-mac-setup.md), and [**win-setup**](https://github.com/sergei202/okcoders-backend/blob/master/00-preparation/00-03-win-setup.md) files for additional instructions depending on your computer.
+[**linux-setup**](https://github.com/FXschwartz/okcoders-frontend-2018/blob/master/module-1/preperation/linux-setup.md), [**mac-setup**](https://github.com/FXschwartz/okcoders-frontend-2018/blob/master/module-1/preperation/mac-setup.md), and [**win-setup**](https://github.com/FXschwartz/okcoders-frontend-2018/blob/master/module-1/preperation/win-setup.md) files for additional instructions depending on your computer.
