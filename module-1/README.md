@@ -4,7 +4,7 @@ This is evolving course material for the 2018 Tulsa OK Coders Frontend module 1 
 
 Please refer to [**preperation/README.md**](https://github.com/FXschwartz/okcoders-frontend-2018/tree/master/module-1/preperation) to get your development environment setup.
 
-Below is the course syllabus for this module.
+<!-- Below is the course syllabus for this module.
 
 | Week 1 | Topic |
 |---|---|
@@ -20,4 +20,4 @@ Below is the course syllabus for this module.
 | **Week 4** |
 | 4.1 | Html, CSS, and Bootstrap Quiz |
 | 4.2 | Advanced Command Line |
-| 4.3 | Final Exam |
+| 4.3 | Final Exam | -->
