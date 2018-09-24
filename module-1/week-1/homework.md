@@ -1,10 +1,10 @@
 # Week 1 - Homework
 
-We're going to a very simple home page for an animal adoption website for this week's homework.  Every day (Monday, Wednesday, Friday) will build on the previous. For a general guideline I will be displaying an image of what the page layout should look like. It will be up to you to figure out how to mimic the layout as well as adding in your own ideas, designs and making it your own.
+We're going to do a very simple home page for an animal adoption website for this week's homework.  Every day (Monday, Wednesday, Friday) will build on the previous. For a general guideline I will be displaying an image of what the page layout should look like. It will be up to you to figure out how to mimic the layout as well as adding in your own ideas, designs and making it your own.
 
-Each assignment will be graded with 50% going toward it being completed and the other 50% from coding style(Code correctly spaced and indented, good naming conventions that make sense etc...)
+Each assignment will be graded with 50% going toward it being completed and the other 50% from coding style (Code correctly spaced and indented, good naming conventions that make sense etc...)
 
-- Day 1: Setup, Layout, table of animals
+- Day 1: Setup, layout, table of animals
 - Day 2: Animal info page
 - Day 3: css and visual improvements
 
@@ -23,10 +23,10 @@ We want our home page to have a 3 panel layout:
 
 Here's an idea of what it should look like:
 
-![Home Page Layout Example](https://github.com/FXschwartz/okcoders-frontend-2018/tree/master/module-1/week-1/week-1-homework.png)
+![Home Page Layout Example](https://github.com/FXschwartz/okcoders-frontend-2018/blob/master/module-1/week-1/week-1-homework.png)
 
 ### Bonus
-- Make the email address in the footer a clickable link that opens up your computers default email client when clicked on.
+- Make the email address in the footer a clickable link that opens up your computer's default email client when clicked on.
 
 #### Hints
 - Your home page doesn't have to look like mine at all, it just has to have the general layout.
