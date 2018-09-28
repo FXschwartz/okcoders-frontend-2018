@@ -57,5 +57,15 @@ The shots/vaccines list can be shown just as a normal list
 ### Bonus
 - Make the 'age' and 'adoption cost' number fields so they cannot go below 1
 
+## Day 3 - Wednesday 9/27
+
+This last assignment is going to be a light one since the entire weeks homework is do at the end of today. What i'd like you to do is dive into css and use it to make your new website more visually appealing. Add some background images, or some images of the animals. Play around with transitions and some very light animations. Once you have a good amount of css in your html files we are going to want to seperate out the css into its own file and import that file into the html file we want it to be applied too. We are doing this because starting tomorrow we are going to go more in depth into css and bootstrap and our list of css is going to grow, its more efficient and just much cleaner to take out that css and put it into its own file.
+
+### Setup
+For each html file you have, create a css file and name it the same except with a `.css` extension at the end. For example, your `home-page.html` should now have all of its css moved into a `home-page.css`
+
+### Bonus
+- Make it where if a user moves their mouse (hovers) over a row in your table, the background of the entire row will change to a different color.
+
 ### Once You Are Done
 Next week I will have a better way for you to send me your completed assignments but for now after you are done with each one send the `adoption-website` folder to me in a private slack message.
