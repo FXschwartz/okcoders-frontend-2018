@@ -22,7 +22,7 @@ We also want this to be mobile friendly which means our image and the descriptio
 
 ![Home Page Layout Example 1](https://github.com/FXschwartz/okcoders-frontend-2018/blob/master/module-1/week-2/Worldwide-Animal-Adoption-mobile.png)
 
-The last thing we want is a contact page called `contact.html`. Lets add a dropdown to our nav bar at the top and add a selection in it called `Contact Us` that when clicked will navigat the user to the contact page. The look of this page is up to you but the basic components needed are an input field for name, email, subject, and body. And then a button to send the contact request. This will also need to be mobile friendly!
+The last thing we want is a contact page called `contact.html`. Lets add a dropdown to our nav bar at the top and add a selection in it called `Contact Us` that when clicked will navigate the user to the contact page. The look of this page is up to you but the basic components needed are an input field for name, email, subject, and body. And then a button to send the contact request. This will also need to be mobile friendly!
 
 ### Hint
 - Remember you can specify how row elements will be aligned on different devices by chaining `col` (col-lg-6, col-sm-3).
