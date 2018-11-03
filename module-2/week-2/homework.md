@@ -1,4 +1,4 @@
-# Week 1 Saturday 10/27 - Homework
+# Week 2 Saturday 11/3 - Homework
 
 We're going to build a couple of slightly complex applications.
 
