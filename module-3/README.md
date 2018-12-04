@@ -1,4 +1,4 @@
-# Welcome to Module 2: Intro to Javascript!
+# Welcome to Module 3: Intro to Javascript 2!
 
 This is evolving course material for the 2018 Tulsa OK Coders Frontend module 2 class.
 
