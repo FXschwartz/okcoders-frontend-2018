@@ -1,6 +1,6 @@
 # Week 1 Saturday 12/1 - Homework
 
-We're going to build a very simple calculator application!.
+We're going to build a very simple calculator application!
 
 1. We will build on this as we go along in the module but for now what we need to have is two input fields which will hold the two numbers we will be using. Then 4 buttons:
 A + which will add the two numbers together and output the value to the user.
